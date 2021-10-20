@@ -8,10 +8,15 @@ part 03 https://www.youtube.com/watch?v=h8ooegi95v0&t=0s
 
 part 04 
 
-
+[]
 
 to do's
 
+dependencies:
+
+https://pub.dev/packages/sqflite
+
+https://pub.dev/packages/path_provider
 
 
 A new Flutter project.
